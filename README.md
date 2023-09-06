@@ -1,5 +1,3 @@
-# Google-Cloud-Study-Jam
-
 # Google Developers Student Club - Vishnuraj Saravanan
 
 This is the official GitHub Organization of GDSC-SNSCE. 
